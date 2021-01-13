@@ -1,0 +1,11 @@
+C:\Users\Pepa\source\repos\Testik\Testik\bin\Debug\netcoreapp3.0\Testik.exe
+C:\Users\Pepa\source\repos\Testik\Testik\bin\Debug\netcoreapp3.0\Testik.deps.json
+C:\Users\Pepa\source\repos\Testik\Testik\bin\Debug\netcoreapp3.0\Testik.runtimeconfig.json
+C:\Users\Pepa\source\repos\Testik\Testik\bin\Debug\netcoreapp3.0\Testik.runtimeconfig.dev.json
+C:\Users\Pepa\source\repos\Testik\Testik\bin\Debug\netcoreapp3.0\Testik.dll
+C:\Users\Pepa\source\repos\Testik\Testik\bin\Debug\netcoreapp3.0\Testik.pdb
+C:\Users\Pepa\source\repos\Testik\Testik\obj\Debug\netcoreapp3.0\Testik.csprojAssemblyReference.cache
+C:\Users\Pepa\source\repos\Testik\Testik\obj\Debug\netcoreapp3.0\Testik.AssemblyInfoInputs.cache
+C:\Users\Pepa\source\repos\Testik\Testik\obj\Debug\netcoreapp3.0\Testik.AssemblyInfo.cs
+C:\Users\Pepa\source\repos\Testik\Testik\obj\Debug\netcoreapp3.0\Testik.dll
+C:\Users\Pepa\source\repos\Testik\Testik\obj\Debug\netcoreapp3.0\Testik.pdb
